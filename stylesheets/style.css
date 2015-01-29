@@ -1,0 +1,50 @@
+@import url("banner.css");
+@import url("footer.css");
+
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #141414;
+}
+
+p{
+  margin-bottom: 10px;
+}
+
+div {
+  display: block;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.btn-brown {
+  background-color: #D8D4CC;
+  color: black;
+}
+
+.btn-brown:hover {
+background-color: #C3BCB3;
+transition: color 0.5s ease;
+}
+
+.card {
+  padding: 10px;
+  font-weight: 300;
+}
+
+.padded {
+  padding-top: 8em;
+  padding-bottom: 8em;
+}
+
+.brown-bg {
+  background-color: #D5D5D5;
+  color: white;
+}
+
+#features img {
+  height: 70px;
+}

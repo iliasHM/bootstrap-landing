@@ -1,0 +1,24 @@
+#banner {
+  background-image: url(../images/outils.png);
+  color: white;
+  padding: 20px 0;
+  background-size: cover;
+  height: 650px;
+}
+
+#banner h1 {
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 90px;
+  color: #D8D4CC;
+  padding-bottom: 310px;
+}
+
+#banner p {
+  font-size: 35px;
+  font-weight: 100;
+  color: #D8D4CC;
+  text-shadow: 3px 0 0 black;
+
+}
+
+
